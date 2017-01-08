@@ -10,5 +10,5 @@ LINK TO ORIGINAL REPO: https://github.com/brendonwai/Time-game
 
 ABOUT:
 
-  The following is an organized compliation of all the scripts I directly worked on for this project
+  The following is an organized compliation of all the scripts and documentation I directly worked on for this project
   along with its final build.
