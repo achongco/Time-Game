@@ -17,6 +17,6 @@ ABOUT:
 CONTROLS:
   
   LEFT-CLICK: Attack
-  RIGHT-CLICK: Hack or Possess
-  Arrow Keys/ASDW: Move
+    RIGHT-CLICK: Hack or Possess
+      Arrow Keys/ASDW: Move
   
