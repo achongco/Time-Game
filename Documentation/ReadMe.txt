@@ -1,0 +1,1 @@
+This folder contains examples of documentation/guides I produced for my teammates on this project.
